@@ -1,0 +1,10 @@
+@startuml
+class editor
+class file
+class command
+class abzats
+file *- abzats
+editor -- file
+command -- file
+editor *- command
+@enduml
