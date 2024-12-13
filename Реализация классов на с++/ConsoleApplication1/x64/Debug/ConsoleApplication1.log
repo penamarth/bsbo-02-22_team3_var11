@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Ymaru\OneDrive\Рабочий стол\5 семестр\UML\bsbo-02-22_team3_var11\Реализация классов на с++\ConsoleApplication1\ConsoleApplication1.cpp(105,58): warning C4267: -=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ymaru\OneDrive\Рабочий стол\5 семестр\UML\bsbo-02-22_team3_var11\Реализация классов на с++\ConsoleApplication1\ConsoleApplication1.cpp(109,61): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ymaru\OneDrive\Рабочий стол\5 семестр\UML\bsbo-02-22_team3_var11\Реализация классов на с++\ConsoleApplication1\ConsoleApplication1.cpp(168,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ymaru\OneDrive\Рабочий стол\5 семестр\UML\bsbo-02-22_team3_var11\Реализация классов на с++\ConsoleApplication1\ConsoleApplication1.cpp(183,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Ymaru\OneDrive\Рабочий стол\5 семестр\UML\bsbo-02-22_team3_var11\Реализация классов на с++\x64\Debug\ConsoleApplication1.exe
